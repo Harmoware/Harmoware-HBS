@@ -1,3 +1,6 @@
 [submodule "LTS-benchmark-tool"]
 	path = LTS-benchmark-tool
 	url = https://github.com/PDR-benchmark-standardization-committee/LTS-benchmark-tool
+[submodule "test-repository"]
+	path = test-repository
+	url = https://github.com/h-sakamoto/test-repository

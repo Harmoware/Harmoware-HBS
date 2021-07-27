@@ -4,3 +4,6 @@
 [submodule "test-repository"]
 	path = test-repository
 	url = https://github.com/h-sakamoto/test-repository
+[submodule "_junk_test"]
+	path = _junk_test
+	url = https://github.com/h-sakamoto/_junk_test

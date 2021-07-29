@@ -7,12 +7,6 @@
 [submodule "_junk_test"]
 	path = _junk_test
 	url = https://github.com/h-sakamoto/_junk_test
-[submodule "testmqtt"]
-	path = testmqtt
-	url = https://github.com/Takuri-Suzuki/test-mqtt.git
-[submodule "szk"]
-	path = szk
-	url = https://github.com/Takuri-Suzuki/mqtt_lib.git
 [submodule "mqtt_lib"]
 	path = mqtt_lib
 	url = https://github.com/Takuri-Suzuki/mqtt_lib.git

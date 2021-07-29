@@ -13,3 +13,6 @@
 [submodule "szk"]
 	path = szk
 	url = https://github.com/Takuri-Suzuki/mqtt_lib.git
+[submodule "mqtt_lib"]
+	path = mqtt_lib
+	url = https://github.com/Takuri-Suzuki/mqtt_lib.git

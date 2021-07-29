@@ -10,3 +10,6 @@
 [submodule "testmqtt"]
 	path = testmqtt
 	url = https://github.com/Takuri-Suzuki/test-mqtt.git
+[submodule "szk"]
+	path = szk
+	url = https://github.com/Takuri-Suzuki/mqtt_lib.git

@@ -7,3 +7,6 @@
 [submodule "_junk_test"]
 	path = _junk_test
 	url = https://github.com/h-sakamoto/_junk_test
+[submodule "testmqtt"]
+	path = testmqtt
+	url = https://github.com/Takuri-Suzuki/test-mqtt.git

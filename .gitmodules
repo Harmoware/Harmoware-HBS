@@ -1,9 +1,6 @@
 [submodule "LTS-benchmark-tool"]
 	path = LTS-benchmark-tool
 	url = https://github.com/PDR-benchmark-standardization-committee/LTS-benchmark-tool
-[submodule "_junk_test"]
-	path = _junk_test
-	url = https://github.com/h-sakamoto/_junk_test
 [submodule "mqtt_lib"]
 	path = mqtt_lib
 	url = https://github.com/Takuri-Suzuki/mqtt_lib.git
